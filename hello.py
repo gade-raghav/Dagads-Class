@@ -3,3 +3,5 @@ print("Hello Class")
 print("Hello Ompa")
  
 print("Hello Dinesh")
+
+print("Hello Mani")
